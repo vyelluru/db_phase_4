@@ -17,7 +17,7 @@
             port=4000
         ```
       3. `npm install` - install dependencies
-      4. `npm start` - run the backend server locally
+      4. `npm start` or `node server.js` - run the backend server locally
 
 # Technologies Used
 1. Frontend:
