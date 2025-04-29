@@ -30,15 +30,15 @@
     - In `/routes/`, each route is associated with a function that performs the SQL query from the local database instance when that route is invoked
 
 # Contributions
-Varun: 
+### Varun: 
 - form routes and endpoints for each SQL query in the app
 - troubleshoot/debug routes
-Sashank:
+### Sashank:
 - form routes and endpoints for each SQL query in the app
 - troubleshoot/debug routes
-Hari:
+### Hari:
 - Fix/debug SQL queries from Phase III to make sure the app backend ran correctly
-Sahil: 
+### Sahil: 
 - troubleshoot/debug routes
 - logging for the frontend/backend
 - README creation
