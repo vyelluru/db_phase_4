@@ -22,8 +22,8 @@ export default function AddAirplane() {
     e.preventDefault();
 
     try {
-      const maintenancedVal = None;
-      const neoVal = None;
+      let maintenancedVal = null;
+      let neoVal = null;
 
       if (form.maintenanced.toLowerCase() === 'true') {
         maintenancedVal = 1;
